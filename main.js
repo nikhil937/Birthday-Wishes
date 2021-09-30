@@ -1,4 +1,4 @@
-const { fabric } = require("./fabric");
+
 
 var canvas = new fabric.Canvas('myCanvas');
  var x= document.getElementById("myAudio");
